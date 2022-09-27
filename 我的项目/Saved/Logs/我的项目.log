@@ -1,0 +1,1091 @@
+﻿Log file open, 09/26/22 21:38:26
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: 我的项目
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.266240
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=NewPlayer0104 -epicuserid=02e17d3b9c1a4d27b2a21223b2a79f67 -epiclocale=zh-CN -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Engine.ini]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Engine.ini]
+[2022.09.27-01.38.26:463][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Engine.ini]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Engine.ini]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.09.27-01.38.26:463][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Engine.ini]
+[2022.09.27-01.38.26:463][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Engine.ini]
+[2022.09.27-01.38.26:475][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.09.27-01.38.26:475][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.09.27-01.38.26:476][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.27-01.38.26:476][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.09.27-01.38.26:476][  0]LogHAL: Display: Platform has ~ 16 GB [17075118080 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.27-01.38.26:476][  0]LogInit: Going up to parent DeviceProfile []
+[2022.09.27-01.38.26:476][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.09.27-01.38.26:476][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-01.38.26:476][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.09.27-01.38.26:477][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.09.27-01.38.26:478][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Scalability.ini]
+[2022.09.27-01.38.26:478][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.09.27-01.38.26:478][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.09.27-01.38.26:478][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.09.27-01.38.26:478][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.27-01.38.26:478][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.09.27-01.38.26:478][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.09.27-01.38.26:478][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.09.27-01.38.26:478][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Engine.ini]
+[2022.09.27-01.38.26:478][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Config/Windows/Editor.ini]
+[2022.09.27-01.38.26:478][  0]LogInit: Computer: DESKTOP-J4L0058
+[2022.09.27-01.38.26:478][  0]LogInit: User: zhuho
+[2022.09.27-01.38.26:478][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.09.27-01.38.26:478][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.27-01.38.26:478][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.09.27-01.38.26:478][  0]LogMemory: Platform Memory Stats for Windows
+[2022.09.27-01.38.26:478][  0]LogMemory: Process Physical Memory: 139.81 MB used, 139.81 MB peak
+[2022.09.27-01.38.26:478][  0]LogMemory: Process Virtual Memory: 112.36 MB used, 112.36 MB peak
+[2022.09.27-01.38.26:478][  0]LogMemory: Physical Memory: 7405.18 MB used,  8878.92 MB free, 16284.10 MB total
+[2022.09.27-01.38.26:478][  0]LogMemory: Virtual Memory: 134208304.00 MB used,  9421.37 MB free, 134217728.00 MB total
+[2022.09.27-01.38.26:705][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.27-01.38.26:753][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.09.27-01.38.26:754][  0]LogInit: Using OS detected language (zh-CN).
+[2022.09.27-01.38.26:754][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.09.27-01.38.26:758][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2022.09.27-01.38.26:873][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2022.09.27-01.38.26:873][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2022.09.27-01.38.26:874][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2022.09.27-01.38.26:874][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2022.09.27-01.38.26:874][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2022.09.27-01.38.26:874][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2022.09.27-01.38.26:874][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2022.09.27-01.38.26:874][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2022.09.27-01.38.26:874][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2022.09.27-01.38.26:874][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2022.09.27-01.38.26:874][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2022.09.27-01.38.26:945][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.27-01.38.26:958][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.09.27-01.38.26:976][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.27-01.38.26:976][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.27-01.38.27:198][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.09.27-01.38.27:198][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.09.27-01.38.27:198][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.09.27-01.38.27:198][  0]LogD3D11RHI: D3D11 adapters:
+[2022.09.27-01.38.27:297][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2022.09.27-01.38.27:297][  0]LogD3D11RHI:       6052/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.09.27-01.38.27:319][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.09.27-01.38.27:319][  0]LogD3D11RHI:       128/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.09.27-01.38.27:321][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.09.27-01.38.27:321][  0]LogD3D11RHI:       0/0/8142 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.09.27-01.38.27:321][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.09.27-01.38.27:327][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.09.27-01.38.27:327][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.27-01.38.27:327][  0]LogWindows: EnumDisplayDevices:
+[2022.09.27-01.38.27:327][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.09.27-01.38.27:327][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.09.27-01.38.27:328][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.09.27-01.38.27:328][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2022.09.27-01.38.27:328][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2022.09.27-01.38.27:328][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2022.09.27-01.38.27:328][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2022.09.27-01.38.27:328][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.09.27-01.38.27:328][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2022.09.27-01.38.27:329][  0]LogD3D11RHI:   Driver Version: 517.40 (internal:31.0.15.1740, unified:517.40)
+[2022.09.27-01.38.27:329][  0]LogD3D11RHI:      Driver Date: 9-12-2022
+[2022.09.27-01.38.27:329][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2022.09.27-01.38.27:369][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.09.27-01.38.27:369][  0]LogD3D11RHI: Async texture creation enabled
+[2022.09.27-01.38.27:369][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.09.27-01.38.27:394][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.09.27-01.38.27:396][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.09.27-01.38.27:708][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.09.27-01.38.27:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.27-01.38.27:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.27-01.38.27:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.27-01.38.27:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.27-01.38.27:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.27-01.38.27:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.27-01.38.27:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.27-01.38.27:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.27-01.38.27:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.27-01.38.27:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.27-01.38.27:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.27-01.38.27:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.27-01.38.27:767][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.27-01.38.27:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.09.27-01.38.27:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.27-01.38.27:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.27-01.38.27:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.09.27-01.38.27:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.09.27-01.38.27:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.09.27-01.38.27:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.09.27-01.38.27:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.09.27-01.38.27:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.09.27-01.38.27:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.09.27-01.38.27:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.09.27-01.38.27:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.09.27-01.38.27:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.27-01.38.27:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.27-01.38.27:912][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.09.27-01.38.27:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.27-01.38.27:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.27-01.38.27:941][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.27-01.38.27:941][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.09.27-01.38.27:949][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.27-01.38.28:019][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.09.27-01.38.28:019][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Intermediate/Shaders/WorkingDirectory/6352/).
+[2022.09.27-01.38.28:020][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/zhuho/AppData/Local/Temp/UnrealShaderWorkingDir/94E7F7FD4A5AD7157F44F09ACBB90688/'.
+[2022.09.27-01.38.28:020][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.09.27-01.38.28:020][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.09.27-01.38.28:770][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.09.27-01.38.28:815][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/zhuho/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.09.27-01.38.28:815][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/zhuho/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.09.27-01.38.28:815][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.27-01.38.28:815][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.09.27-01.38.28:815][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.27-01.38.28:815][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.09.27-01.38.28:826][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.09.27-01.38.28:826][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.27-01.38.28:826][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.09.27-01.38.28:844][  0]LogDerivedDataCache: Speed tests for C:/Users/zhuho/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.09.27-01.38.28:844][  0]LogDerivedDataCache: Display: Performance to C:/Users/zhuho/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=231.01MBs, RandomWriteSpeed=67.41MBs. Assigned SpeedClass 'Local'
+[2022.09.27-01.38.28:845][  0]LogDerivedDataCache: Using Local data cache path C:/Users/zhuho/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.27-01.38.28:845][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.27-01.38.28:845][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.09.27-01.38.28:893][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.27-01.38.28:893][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.27-01.38.28:919][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2022.09.27-01.38.29:177][  0]LogInit: Selected Device Profile: [Windows]
+[2022.09.27-01.38.29:177][  0]LogInit: Active device profile: [0000027016616300][0000027015C86380 49] Windows
+[2022.09.27-01.38.29:177][  0]LogInit: Profiles: [0000027016616300][0000027015C86380 49] Windows, [00000270165BE100][0000027016CA6500 49] WindowsNoEditor, [0000027016617000][0000027016CAA680 49] WindowsServer, [00000270165BCA00][0000027016CAE800 49] WindowsClient, [0000027016616000][0000027016CB2980 49] IOS, [00000270165BF700][0000027016CB6B00 49] iPadAir, [0000027016614300][0000027016CBAC80 49] iPadAir2, [0000027016565E00][0000027016CC8F40 49] IPadPro, [0000027016565F00][0000027016CBEF80 49] iPadAir3, [00000270165BD300][0000027016CD3100 49] iPadAir4, [0000027016567600][0000027016CD7280 49] iPadMini2, [00000270165BE200][0000027016CDB400 49] iPadMini3, [0000027016565700][0000027016CDF580 49] iPadMini4, [00000270165BCF00][0000027015C8B6C0 49] iPadMini5, [0000027016575500][0000027016CE7900 49] iPhone6, [0000027016575600][0000027016CE3940 49] iPodTouch6, [0000027016615400][0000027016CF3C00 49] iPhone7, [0000027016615000][0000027016CEFC40 49] iPodTouch7, [0000027016576000][0000027016CF6100 49] iPhone5S, [0000027016615E00][0000027016CFA280 49] iPhone6Plus, [0000027016577A00][0000027016CFE400 49] iPhone6S, [0000027016616600][0000027016D02580 49] iPhone6SPlus, [0000027016577B00][0000027016D06700 49] iPhone7Plus, [0000027016615C00][0000027016D0A880 49] iPhoneSE, [00000270165BE500][0000027016D0EA00 49] iPhone8, [0000027016574600][0000027016D12B80 49] iPhone8Plus, [00000270165BF500][0000027016D16D00 49] iPhoneX, [0000027016575900][0000027016D1AE80 49] iPhoneXS, [00000270165BE800][0000027016D1F000 49] iPhoneXSMax, [0000027016574A00][0000027016D23180 49] iPhoneXR, [00000270165BD500][0000027016D27300 49] iPhone11, [0000027016576300][0000027016D2B480 49] iPhone11Pro, [00000270165BE400][0000027016D2F600 49] iPhone11ProMax, [0000027016577000][0000027016CEB740 49] iPhoneSE2, [00000270165BF900][0000027016D33880 49] iPhone12Mini, [0000027016577E00][0000027016D379C0 49] iPhone12, [00000270165BE700][0000027016D3FB40 49] iPhone12Pro, [0000027016576E00][0000027016D43CC0 49] iPhone12ProMax, [0000027016616800][0000027016D46180 49] iPadPro105, [0000027016575B00][0000027016D4A300 49] iPadPro129, [0000027016616A00][0000027016D4E480 49] iPadPro97, [0000027016577C00][0000027016D52600 49] iPadPro2_129, [0000027016614700][0000027016D56780 49] iPad5, [0000027016576900][0000027016D5A900 49] iPad6, [0000027016615100][0000027016D5EA80 49] iPad7, [0000027016574700][0000027016D62C00 49] iPad8, [0000027016614100][0000027016D66D80 49] iPadPro11, [0000027016574900][0000027016D6AF00 49] iPadPro2_11, [0000027016616700][0000027016D6F080 49] iPadPro3_129, [0000027016574F00][0000027016D73200 49] iPadPro4_129, [0000027016614C00][0000027016D77380 49] AppleTV, [0000027016575C00][0000027016D7B500 49] AppleTV4K, [0000027016615900][0000027016D7F680 49] TVOS, [0000027016576D00][0000027016D3B7C0 49] Mac, [0000027016615600][0000027016D83900 49] MacClient, [0000027016576600][0000027016D87A40 49] MacNoEditor, [0000027016616100][0000027016D8BB80 49] MacServer, [0000027016576A00][0000027016D93D00 49] Linux, [0000027016616F00][0000027016D961C0 49] LinuxAArch64, [0000027016574100][0000027016D9A340 49] LinuxNoEditor, [0000027016615F00][0000027016D9E4C0 49] LinuxAArch64NoEditor, [0000027016575700][0000027016DA2640 49] LinuxClient, [0000027016616E00][0000027016DA67C0 49] LinuxAArch64Client, [0000027016577200][0000027016DAA940 49] LinuxServer, [0000027016614500][0000027016DAEAC0 49] LinuxAArch64Server, [0000027016574C00][0000027016DB2C40 49] Android, [0000027016616C00][0000027016DB6DC0 49] Android_Low, [0000027016576200][0000027016DBAF40 49] Android_Mid, [0000027016614200][0000027016DBF0C0 49] Android_High, [0000027016575800][0000027016DC3240 49] Android_Default, [0000027016617700][0000027016DC73C0 49] Android_Adreno4xx, [0000027016577100][0000027016DCB540 49] Android_Adreno5xx_Low, [0000027016615A00][0000027016DCF6C0 49] Android_Adreno5xx, [0000027016575E00][0000027016D8F800 49] Android_Adreno6xx, [0000027016615200][0000027016DD3940 49] Android_Adreno6xx_Vulkan, [0000027016566500][0000027016DD7A80 49] Android_Mali_T6xx, [00000270165BEA00][0000027016DDBBC0 49] Android_Mali_T7xx, [0000027016564600][0000027016DE3D40 49] Android_Mali_T8xx, [00000270165BC200][0000027016DE6200 49] Android_Mali_G71, [0000027016565300][0000027016DEA380 49] Android_Mali_G72, [00000270165BD900][0000027016DEE500 49] Android_Mali_G72_Vulkan, [0000027016564F00][0000027016DF2680 49] Android_Mali_G76, [00000270165BCE00][0000027016DF6800 49] Android_Mali_G76_Vulkan, [0000027016564400][0000027016DFA980 49] Android_Mali_G77, [00000270165BF400][0000027016DFEB00 49] Android_Mali_G77_Vulkan, [0000027016566400][0000027016E02C80 49] Android_Vulkan_SM5, [00000270165BC900][0000027016E06E00 49] Android_PowerVR_G6xxx, [0000027016564200][0000027016E0AF80 49] Android_PowerVR_GT7xxx, [00000270165BFD00][0000027016E0F100 49] Android_PowerVR_GE8xxx, [0000027016565200][0000027016E13280 49] Android_PowerVR_GM9xxx, [00000270165BFA00][0000027016E17400 49] Android_PowerVR_GM9xxx_Vulkan, [0000027016566200][0000027016E1B580 49] Android_TegraK1, [00000270165BD800][0000027016E1F700 49] Android_Unknown_Vulkan, [0000027016565D00][0000027016E23880 49] Lumin, [00000270165BDF00][0000027016DDF9C0 49] Lumin_Desktop, [0000027016564C00][0000027016E27B00 49] HoloLens, 
+[2022.09.27-01.38.29:298][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.27-01.38.29:298][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.27-01.38.29:298][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.27-01.38.29:298][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.27-01.38.29:298][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.27-01.38.29:313][  0]LogNetVersion: 我的项目 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3965211054)
+[2022.09.27-01.38.29:773][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.09.27-01.38.29:871][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 2 prioritized culture(s) in 0.098726 seconds
+[2022.09.27-01.38.29:877][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.09.27-01.38.29:877][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.09.27-01.38.29:877][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.27-01.38.30:207][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.27-01.38.30:221][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.27-01.38.30:431][  0]SourceControl: 源码管理已禁用
+[2022.09.27-01.38.30:431][  0]SourceControl: 源码管理已禁用
+[2022.09.27-01.38.30:451][  0]SourceControl: 源码管理已禁用
+[2022.09.27-01.38.30:461][  0]SourceControl: 源码管理已禁用
+[2022.09.27-01.38.30:466][  0]SourceControl: 源码管理已禁用
+[2022.09.27-01.38.30:474][  0]LogUProjectInfo: Found projects:
+[2022.09.27-01.38.30:483][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.27-01.38.30:484][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.27-01.38.30:746][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.27-01.38.30:769][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.27-01.38.30:769][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.27-01.38.30:837][  0]LogCollectionManager: Loaded 0 collections in 0.002157 seconds
+[2022.09.27-01.38.30:861][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Collections/' took 0.00s
+[2022.09.27-01.38.30:861][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/Developers/zhuho/Collections/' took 0.00s
+[2022.09.27-01.38.30:861][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/Collections/' took 0.00s
+[2022.09.27-01.38.30:861][  0]LogOcInput: OculusInput pre-init called
+[2022.09.27-01.38.30:872][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.09.27-01.38.30:872][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.09.27-01.38.30:919][  0]LogEngine: Initializing Engine...
+[2022.09.27-01.38.30:919][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.09.27-01.38.30:920][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.09.27-01.38.30:921][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.09.27-01.38.31:023][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.27-01.38.31:030][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.27-01.38.31:046][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.27-01.38.31:056][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.27-01.38.31:056][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.27-01.38.31:056][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.27-01.38.31:056][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.27-01.38.31:056][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.27-01.38.31:056][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.27-01.38.31:056][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.27-01.38.31:056][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.27-01.38.31:056][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.27-01.38.31:056][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.27-01.38.31:057][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.09.27-01.38.31:057][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.27-01.38.31:163][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.27-01.38.31:163][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.09.27-01.38.31:203][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.09.27-01.38.31:207][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.27-01.38.31:211][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.27-01.38.31:211][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.27-01.38.31:213][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.27-01.38.31:213][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.27-01.38.31:213][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.27-01.38.31:215][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.27-01.38.31:215][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.27-01.38.31:215][  0]LogInit: FAudioDevice initialized.
+[2022.09.27-01.38.31:215][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.27-01.38.31:215][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.27-01.38.31:267][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/zhuho/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.09.27-01.38.31:269][  0]LogInit: Texture streaming: Enabled
+[2022.09.27-01.38.31:289][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.09.27-01.38.31:296][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.27-01.38.31:296][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.09.27-01.38.31:300][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.09.27-01.38.31:324][  0]LogInit: Transaction tracking system initialized
+[2022.09.27-01.38.31:362][  0]BlueprintLog: New page: 编辑器加载
+[2022.09.27-01.38.31:493][  0]LocalizationService: 本地化服务已禁用
+[2022.09.27-01.38.31:531][  0]TimingProfiler: Initialize
+[2022.09.27-01.38.31:531][  0]TimingProfiler: OnSessionChanged
+[2022.09.27-01.38.31:531][  0]LoadingProfiler: Initialize
+[2022.09.27-01.38.31:531][  0]LoadingProfiler: OnSessionChanged
+[2022.09.27-01.38.31:531][  0]NetworkingProfiler: Initialize
+[2022.09.27-01.38.31:531][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.27-01.38.31:531][  0]MemoryProfiler: Initialize
+[2022.09.27-01.38.31:531][  0]MemoryProfiler: OnSessionChanged
+[2022.09.27-01.38.31:635][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.27-01.38.31:636][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.09.27-01.38.31:751][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.09.27-01.38.31:751][  0]LogCook: Display: Mobile HDR setting 1
+[2022.09.27-01.38.31:951][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/' took 0.00s
+[2022.09.27-01.38.32:145][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.27-01.38.32:148][  0]SourceControl: 源码管理已禁用
+[2022.09.27-01.38.32:149][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.803
+[2022.09.27-01.38.32:155][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.26/FeaturePacks/StarterContent.upack)
+[2022.09.27-01.38.32:155][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.09.27-01.38.32:155][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.32:155][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.09.27-01.38.32:159][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.09.27-01.38.32:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.09.27-01.38.32:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.09.27-01.38.32:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.09.27-01.38.32:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.09.27-01.38.32:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.09.27-01.38.32:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.09.27-01.38.32:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.09.27-01.38.32:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.09.27-01.38.32:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.09.27-01.38.32:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.09.27-01.38.32:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.09.27-01.38.32:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.09.27-01.38.32:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.09.27-01.38.32:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.09.27-01.38.32:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.09.27-01.38.32:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.09.27-01.38.32:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.09.27-01.38.32:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Fire01.uasset"
+[2022.09.27-01.38.32:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.09.27-01.38.32:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.09.27-01.38.32:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.09.27-01.38.32:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Light01.uasset"
+[2022.09.27-01.38.32:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.09.27-01.38.32:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Light02.uasset"
+[2022.09.27-01.38.32:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.09.27-01.38.32:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.09.27-01.38.32:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.09.27-01.38.32:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.09.27-01.38.32:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.09.27-01.38.32:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.09.27-01.38.32:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.09.27-01.38.32:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.09.27-01.38.32:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.09.27-01.38.32:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Steam01.uasset"
+[2022.09.27-01.38.32:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.09.27-01.38.32:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.09.27-01.38.32:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.09.27-01.38.32:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.09.27-01.38.32:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.09.27-01.38.32:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.09.27-01.38.32:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.09.27-01.38.32:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.09.27-01.38.32:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.09.27-01.38.32:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.09.27-01.38.32:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.09.27-01.38.32:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.09.27-01.38.32:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.09.27-01.38.32:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.09.27-01.38.32:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.09.27-01.38.32:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.09.27-01.38.32:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.09.27-01.38.32:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.09.27-01.38.32:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.09.27-01.38.32:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.09.27-01.38.32:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.09.27-01.38.32:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.09.27-01.38.32:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Maps/StarterMap.umap"
+[2022.09.27-01.38.32:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.09.27-01.38.32:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.09.27-01.38.32:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.09.27-01.38.32:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.09.27-01.38.32:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.09.27-01.38.32:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.09.27-01.38.32:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.09.27-01.38.32:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.09.27-01.38.32:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.09.27-01.38.32:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.09.27-01.38.32:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.09.27-01.38.32:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.09.27-01.38.32:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.09.27-01.38.32:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.09.27-01.38.32:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.09.27-01.38.32:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.09.27-01.38.32:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.09.27-01.38.32:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.09.27-01.38.32:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.09.27-01.38.32:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.09.27-01.38.32:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.09.27-01.38.32:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.09.27-01.38.32:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.09.27-01.38.32:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.09.27-01.38.32:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.09.27-01.38.32:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.09.27-01.38.32:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.09.27-01.38.32:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.09.27-01.38.32:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.09.27-01.38.32:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.09.27-01.38.32:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.09.27-01.38.32:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.09.27-01.38.32:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.09.27-01.38.32:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.09.27-01.38.32:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.09.27-01.38.32:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.09.27-01.38.32:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.09.27-01.38.32:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.09.27-01.38.32:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.09.27-01.38.32:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.09.27-01.38.32:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.09.27-01.38.32:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.09.27-01.38.32:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.09.27-01.38.32:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.09.27-01.38.32:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.09.27-01.38.32:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.09.27-01.38.32:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.09.27-01.38.32:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.09.27-01.38.32:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.09.27-01.38.32:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.09.27-01.38.32:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.09.27-01.38.32:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.09.27-01.38.32:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.09.27-01.38.32:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.09.27-01.38.32:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.09.27-01.38.32:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.09.27-01.38.32:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.09.27-01.38.32:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.09.27-01.38.32:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.09.27-01.38.32:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.09.27-01.38.32:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.09.27-01.38.32:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.09.27-01.38.32:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.09.27-01.38.32:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.09.27-01.38.32:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.09.27-01.38.32:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_Door.uasset"
+[2022.09.27-01.38.32:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.09.27-01.38.32:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.09.27-01.38.32:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.09.27-01.38.32:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.09.27-01.38.32:892][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.09.27-01.38.32:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.09.27-01.38.32:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.09.27-01.38.32:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.09.27-01.38.32:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.09.27-01.38.32:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.09.27-01.38.32:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.09.27-01.38.32:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.09.27-01.38.32:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.09.27-01.38.32:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.09.27-01.38.32:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.09.27-01.38.32:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.09.27-01.38.32:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.09.27-01.38.32:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.09.27-01.38.32:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.09.27-01.38.32:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.09.27-01.38.32:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.09.27-01.38.32:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.09.27-01.38.32:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.09.27-01.38.32:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.09.27-01.38.32:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.09.27-01.38.33:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.09.27-01.38.33:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.09.27-01.38.33:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.09.27-01.38.33:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.09.27-01.38.33:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.09.27-01.38.33:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.09.27-01.38.33:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.09.27-01.38.33:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.09.27-01.38.33:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.09.27-01.38.33:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.09.27-01.38.33:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.09.27-01.38.33:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.09.27-01.38.33:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.09.27-01.38.33:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.09.27-01.38.33:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.09.27-01.38.33:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.09.27-01.38.33:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.09.27-01.38.33:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.09.27-01.38.33:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.09.27-01.38.33:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.09.27-01.38.33:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.09.27-01.38.33:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.09.27-01.38.33:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.09.27-01.38.33:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.09.27-01.38.33:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.09.27-01.38.33:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.09.27-01.38.33:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.09.27-01.38.33:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.09.27-01.38.33:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.09.27-01.38.33:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.09.27-01.38.33:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.09.27-01.38.33:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.09.27-01.38.33:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.09.27-01.38.33:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.09.27-01.38.33:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.09.27-01.38.33:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.09.27-01.38.33:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.09.27-01.38.33:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.09.27-01.38.33:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.09.27-01.38.33:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.09.27-01.38.33:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.09.27-01.38.33:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.09.27-01.38.33:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.09.27-01.38.33:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.09.27-01.38.33:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.09.27-01.38.33:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.09.27-01.38.33:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.09.27-01.38.33:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.09.27-01.38.33:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.09.27-01.38.33:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.09.27-01.38.33:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.09.27-01.38.33:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.09.27-01.38.33:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.09.27-01.38.33:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.09.27-01.38.33:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.09.27-01.38.33:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.09.27-01.38.33:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.09.27-01.38.33:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.09.27-01.38.33:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.09.27-01.38.33:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.09.27-01.38.33:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.09.27-01.38.33:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.09.27-01.38.33:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.09.27-01.38.33:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.09.27-01.38.33:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.09.27-01.38.33:716][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.09.27-01.38.33:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.09.27-01.38.33:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.09.27-01.38.33:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.09.27-01.38.33:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.09.27-01.38.33:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.09.27-01.38.33:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.09.27-01.38.33:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.09.27-01.38.33:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.09.27-01.38.33:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.09.27-01.38.33:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.09.27-01.38.33:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.09.27-01.38.33:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.09.27-01.38.33:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.09.27-01.38.33:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.09.27-01.38.33:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.09.27-01.38.34:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.09.27-01.38.34:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.09.27-01.38.34:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.09.27-01.38.34:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.09.27-01.38.34:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.09.27-01.38.34:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.09.27-01.38.34:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.09.27-01.38.34:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.09.27-01.38.34:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.09.27-01.38.34:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.09.27-01.38.34:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.09.27-01.38.34:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.09.27-01.38.34:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.09.27-01.38.34:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.09.27-01.38.34:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.09.27-01.38.34:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.09.27-01.38.34:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.09.27-01.38.34:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.09.27-01.38.34:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.09.27-01.38.34:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.09.27-01.38.34:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.09.27-01.38.34:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.09.27-01.38.34:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.09.27-01.38.34:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.09.27-01.38.34:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.09.27-01.38.34:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.09.27-01.38.34:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.09.27-01.38.34:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.09.27-01.38.34:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.09.27-01.38.34:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.09.27-01.38.34:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.09.27-01.38.34:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.09.27-01.38.34:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.09.27-01.38.34:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.09.27-01.38.34:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.09.27-01.38.34:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.09.27-01.38.34:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.09.27-01.38.34:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.09.27-01.38.34:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.09.27-01.38.34:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.09.27-01.38.34:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.09.27-01.38.34:763][  0]LogStaticMesh: 正在构建静态网格体Floor_400x400……
+[2022.09.27-01.38.34:768][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.09.27-01.38.34:904][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2022.09.27-01.38.35:113][  0]LogSavePackage: Moving '../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Saved/Floor_400x400085F9B1C46B53C157B3EEAB570A87CB3.tmp' to '../../../../../../Users/zhuho/Desktop/Senior Design/CLUE/我的项目/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.09.27-01.38.35:114][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2022.09.27-01.38.35:115][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.27-01.38.35:115][  0]LightingResults: New page: 光照构建
+[2022.09.27-01.38.35:116][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.27-01.38.35:116][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.27-01.38.35:116][  0]MapCheck: New page: 地图检测
+[2022.09.27-01.38.35:116][  0]LightingResults: New page: 光照构建
+[2022.09.27-01.38.35:124][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.09.27-01.38.35:186][  0]LogTexture: Display: 正在编译纹理：DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89（BGRA8、128X128）
+[2022.09.27-01.38.35:188][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.09.27-01.38.35:189][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.09.27-01.38.35:193][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.27-01.38.35:199][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.09.27-01.38.35:200][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.27-01.38.35:200][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.103毫秒。
+[2022.09.27-01.38.35:200][  0]LogFileHelpers: Loading map 'Template_Default' took 0.086
+[2022.09.27-01.38.35:201][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.856
+[2022.09.27-01.38.35:278][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微软拼音).
+[2022.09.27-01.38.35:337][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.27-01.38.35:343][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.27-01.38.35:349][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.27-01.38.35:354][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.27-01.38.35:389][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0097 seconds. Added 3601 classes and 859 folders.
+[2022.09.27-01.38.35:394][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.09.27-01.38.35:396][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.09.27-01.38.35:396][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:396][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.09.27-01.38.35:396][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.09.27-01.38.35:397][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.09.27-01.38.35:397][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:397][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.09.27-01.38.35:397][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.09.27-01.38.35:398][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.09.27-01.38.35:398][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.09.27-01.38.35:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.09.27-01.38.35:399][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.09.27-01.38.35:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.09.27-01.38.35:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.09.27-01.38.35:400][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.09.27-01.38.35:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.09.27-01.38.35:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.09.27-01.38.35:401][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.09.27-01.38.35:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.09.27-01.38.35:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.09.27-01.38.35:402][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.09.27-01.38.35:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.09.27-01.38.35:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.09.27-01.38.35:403][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.09.27-01.38.35:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.09.27-01.38.35:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.09.27-01.38.35:404][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.09.27-01.38.35:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.09.27-01.38.35:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.09.27-01.38.35:404][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.09.27-01.38.35:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.09.27-01.38.35:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.09.27-01.38.35:405][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.09.27-01.38.35:405][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:405][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.09.27-01.38.35:405][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.09.27-01.38.35:406][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.09.27-01.38.35:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.09.27-01.38.35:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.09.27-01.38.35:407][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.09.27-01.38.35:407][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:407][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.09.27-01.38.35:407][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.09.27-01.38.35:408][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.09.27-01.38.35:408][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:408][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.09.27-01.38.35:408][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.09.27-01.38.35:409][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.09.27-01.38.35:409][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:409][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.09.27-01.38.35:409][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.09.27-01.38.35:409][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.09.27-01.38.35:409][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:410][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.09.27-01.38.35:410][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.09.27-01.38.35:410][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.09.27-01.38.35:410][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:410][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.09.27-01.38.35:410][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.09.27-01.38.35:412][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.09.27-01.38.35:412][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:412][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.09.27-01.38.35:412][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.09.27-01.38.35:413][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.09.27-01.38.35:413][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:413][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.09.27-01.38.35:413][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.09.27-01.38.35:414][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.09.27-01.38.35:414][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:414][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.09.27-01.38.35:414][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.09.27-01.38.35:415][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.09.27-01.38.35:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.09.27-01.38.35:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2022.09.27-01.38.35:416][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.09.27-01.38.35:416][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:416][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.09.27-01.38.35:416][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2022.09.27-01.38.35:417][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.09.27-01.38.35:417][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:417][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.09.27-01.38.35:417][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2022.09.27-01.38.35:418][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.09.27-01.38.35:418][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:418][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.09.27-01.38.35:418][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2022.09.27-01.38.35:418][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.09.27-01.38.35:418][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:418][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.09.27-01.38.35:418][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2022.09.27-01.38.35:419][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.09.27-01.38.35:419][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.09.27-01.38.35:419][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.09.27-01.38.35:419][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2022.09.27-01.38.35:460][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.09.27-01.38.35:464][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.09.27-01.38.35:538][  0]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.27-01.38.35:541][  0]LogSlate: Took 0.002315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.09.27-01.38.35:543][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.27-01.38.35:554][  0]LogSlate: Took 0.006733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.27-01.38.35:696][  0]LogRenderer: Reallocating scene render targets to support 1208x568 Format 10 NumSamples 1 (Frame:1).
+[2022.09.27-01.38.35:745][  0]LogSlate: Took 0.000467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.27-01.38.35:885][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.09.27-01.38.35:885][  0]LogLoad: (Engine Initialization) Total time: 10.54 seconds
+[2022.09.27-01.38.35:885][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.27-01.38.35:885][  0]LogInit: First time updating LLM stats...
+[2022.09.27-01.38.35:901][  0]AssetCheck: New page: 资产保存：Floor_400x400
+[2022.09.27-01.38.35:901][  0]LogContentValidation: Display: 正在验证StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.09.27-01.38.35:937][  0]LogAssetRegistry: Asset discovery search completed in 7.0197 seconds
+[2022.09.27-01.38.35:938][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.09.27-01.38.36:039][  0]LogContentStreaming: Texture pool size now 1000 MB
